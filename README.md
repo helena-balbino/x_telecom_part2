@@ -47,11 +47,9 @@ Com base em variáveis comportamentais e de perfil, o modelo identifica quais cl
   - Consistência nas previsões, evitando excesso de falsos positivos.  
 
 📈 **Exemplo de visualização:** 
-*(comparação Recall dos modelos)*  
-![Importância das Variáveis](visualizacoes/recall.png) 
-
-*(importância das variáveis na previsão do churn)*  
-![Importância das Variáveis](visualizacoes/feature.png)
+![[Comparação de Recall]](view/recall.png) 
+  
+![Importância das Variáveis](vi/feature.png)
 
 ---
 
