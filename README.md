@@ -17,7 +17,8 @@ Com base em variáveis comportamentais e de perfil, o modelo identifica quais cl
 ```
 ├── Churn_telecom_x_Part2_final.ipynb   # Notebook principal com toda a análise
 ├── df_churn.csv                        # Base de dados pré-processada
-└── /view                               # Gráficos e imagens gerados (opcional)
+├── model_LogisticRegression.pkl        # Modelo treinado
+└── /view                               # Gráficos e imagens gerados
 ```
 
 ---
@@ -47,9 +48,10 @@ Com base em variáveis comportamentais e de perfil, o modelo identifica quais cl
   - Consistência nas previsões, evitando excesso de falsos positivos.  
 
 📈 **Exemplo de visualização:** 
+
 ![[Comparação de Recall]](view/recall.png) 
   
-![Importância das Variáveis](vi/feature.png)
+![Importância das Variáveis](view/feature.png)
 
 ---
 
