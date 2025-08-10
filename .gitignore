@@ -1,0 +1,19 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de pacotes instalados
+*.egg-info/
